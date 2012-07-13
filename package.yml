@@ -1,0 +1,17 @@
+name: "FilterTable"
+
+exports: "filtertable.js"
+
+description: "MooTools Plugin for filtering table rows."
+
+license: "MIT License"
+
+copyright: "&copy; [Thibault Debatty]"
+
+authors: "[Thibault Debatty](http://??), [Carl Holmberg](http://talgdank.se)"
+
+version: "0.0.2"
+
+sources:
+  - Source/FilterTable.js
+
